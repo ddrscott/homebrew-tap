@@ -1,5 +1,5 @@
 class RelayTty < Formula
-  desc "Terminal sessions that outlive the terminal, reachable from a browser or Max Pane"
+  desc "Terminal sessions that outlive the terminal, from a browser or Max Pane"
   homepage "https://github.com/ddrscott/relay-tty"
   url "https://registry.npmjs.org/relay-tty/-/relay-tty-1.23.0.tgz"
   sha256 "0ae982cd5a1b69277552c6f5035300210d109b209672b3490fcb7d700cb62f90"
